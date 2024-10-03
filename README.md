@@ -1,4 +1,4 @@
-##About 
+
 
 Hi, I'm Jay. I'm a software engineer.
 <!--
