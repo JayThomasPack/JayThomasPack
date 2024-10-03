@@ -1,5 +1,6 @@
-## Hi there 👋
+##About 
 
+Hi, I'm Jay. I'm a software engineer.
 <!--
 **JayThomasPack/JayThomasPack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
